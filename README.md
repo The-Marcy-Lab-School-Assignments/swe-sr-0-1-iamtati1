@@ -1,44 +1,80 @@
-# Technical Writing Assignment
+# 👋 Hi there, I’m Tatiana!
 
-For guidance on setting up and submitting this assignment, refer to the Marcy lab School Docs How-To guide for [Working with Short Response and Coding Assignments](https://marcylabschool.gitbook.io/marcy-lab-school-docs/how-tos/working-with-assignments#how-to-work-on-assignments).
+🌱 I’m a Software Engineering Fellow at **The Marcy Lab School**, growing from a beginner with no prior experience into a developer who’s passionate about building, learning, and creating meaningful digital experiences.
 
-## Prompt 1
+💡 What excites me most about tech is how it’s *at the center of innovation right now* shaping the future across design, creativity, and AI. I’m driven to be part of that movement, using code to create tools, experiences, and stories that matter.
 
-A good technical explanation often uses a metaphor to help others understand a complex concept. Choose a metaphor to represent a Git commit. 
+---
 
-In a few brief paragraphs, use your chosen metaphor to explain:
-* What a commit is
-* How a commit is created (include the command-line syntax)
-* Why commits are useful in version control.
-* Why it is important to write descriptive clear messages in team settings.
+## 💻 What I’m Learning & Working On
+- Building **interactive web apps** with HTML, CSS, and JavaScript  
+- Exploring **React** for dynamic front-end development  
+- Learning the foundations of **back-end development** and APIs  
+- Experimenting with **AI tools** and creative coding projects  
+- Designing clean, intuitive **user interfaces**  
 
-### Response 1
-# What is a commit?
-1. A commit is a way to **save the most recent changes** in your GitHub Repository. After it has been added with `git add` and staged using `git commit` , the commit will save these changes and provide a message of what was updated. 
-This process allows you to keep track of your project over time. Once the newest changes are **staged** Developers commit the updates they **want** to commit `git push`. Usually the best improvement or version as they move along in the project.
+---
 
-We can think of a commit as an *analogy* like taking a picture or a snapshot of your project 📸. It's a way for us to capture what our work looked like in that exact moment.
+## 🧠 What I’m Passionate About
+✨ Front-End Development  
+🎨 UI/UX Design  
+🤖 Artificial Intelligence  
+🕹️ Web & Gaming Apps  
+💭 Creative Coding + Problem Solving  
 
-# How do we create a commit and use the commands?
-After coding and your file is ready to go. It is now time to save these changes! 
+---
 
-1. It is best to always make sure you are inside of the correct folder before saving. Once in the right folder, inside your terminal                                           
-**Type:** `git add - A` + `Enter`. This adds your changes.
+## 💼 My Journey
+I started my coding journey with curiosity and no technical background. Just a love for creativity and technology.  
+Through my time at **The Marcy Lab School**, I’ve developed a strong foundation in programming, problem-solving, and teamwork. I’ve learned how to think like a developer, debug with patience, and bring ideas to life through code.
 
-2. **Type:** `git commit -m" "` + `Enter` to stage your most recent changes. Here you'll want to provide a comment inside the quotations to explain what your changes are. This will be the time to decide and look over what changes you want to push up to GitHub.
+Now, I’m ready to take the next step as a **junior developer**, contributing to real-world projects, collaborating with teams, and continuing to grow as I build towards a career in tech.
 
-3. Finally the final step! 
+---
 
-   When you have staged and confirmed your finished product/changes it is time to push them up. **Type:** `git push` to push up changes to GitHub.
+## 🧩 Featured Projects
+Here are a few things I’ve built or am currently working on:
+- 🕹️ **Game Project:** A fun browser-based game built with JavaScript and logic-based design  
+- 💬 **Chat App:** Exploring real-time communication using APIs  
+- 🌍 **Personal Portfolio:** A creative showcase of my growth as a developer  
 
-   This pushes your commits to GitHub so your changes show up online.
+*(More coming soon!)*
 
-4. You can check **GitHub** afterward to confirm it went through. It usually shows something like **“updated X minutes ago”** next to your file name or commit message — that means GitHub received your latest version!
+---
 
-# Why are commits useful in version control?
+## Tech Stack:
 
-Commits are useful in version control because they act like **save points** in your project’s history. They make it easy to track progress and refer back to previous versions if something breaks. Commits also give you the freedom to collaborate with others without overwriting their changes. Plus, you can create new branches to test ideas safely and merge them only when they work.
+### Languages
+- JavaScript
 
-# Why is it important to write descriptive, clear messages in team settings?
+### Frameworks & Libraries
+- Node.js
 
-It’s important to write clean, organized code so your program works properly and is easy to read. Clear commit messages and code comments help your team understand what each change does and why it was made. This makes collaboration smoother, allows others to edit or build on your work confidently, and helps everyone stay on the same page about your project’s functionality.
+### Tools
+- Git
+- GitHub
+
+---
+
+## 📄 View My Resume
+🔗 [Click here to view my resume](#)  
+*(You can upload your resume as a PDF in your repo or link to your Google Drive / portfolio site)*
+
+---
+
+## 🧍🏽‍♀️ About Me
+💬 I love connecting tech with creativity.  
+☕ I recharge with tea, eercising, playlists, and time to reflect.  
+📍 Based in Brooklyn, NY  
+🎯 Goal: Keep learning, keep creating, and keep inspiring others through innovation.
+
+---
+
+## 🌐 Connect With Me
+• 📧 Email tatianabarmer@gmail.com
+
+---
+
+### Thanks for stopping by!
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)

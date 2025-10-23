@@ -1,5 +1,4 @@
 # 👋 Hi there, I’m Tatiana!
-
 🌱 I’m a Software Engineering Fellow at **The Marcy Lab School**, growing from a beginner with no prior experience into a developer who’s passionate about building, learning, and creating meaningful digital experiences.
 
 💡 What excites me most about tech is how it’s *at the center of innovation right now* shaping the future across design, creativity, and AI. I’m driven to be part of that movement, using code to create tools, experiences, and stories that matter.
